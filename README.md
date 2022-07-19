@@ -6,6 +6,8 @@
   <h3> A Software Engineering Student </h3>
 </div>
 
+- :book: I'm interested in DevOps :infinity:, Cloud computing :cloud: and Machine Learning :computer:
+- 🌱 I’m currently learning some DevOps technologies
 - 📫 How to reach me: gourai.kawtar@gmail.com
 
 ### Connect With Me
